@@ -1,0 +1,11 @@
+--Input 8bit BMP Image File Name¡G
+123_8b.bmp
+
+--Output BMP Image Encoding Txt File Name¡G
+123_PlainTxt.txt
+
+--8bit BMP Image Width¡F
+640
+
+--8bit BMP Image Height¡G
+480
